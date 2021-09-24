@@ -1,0 +1,7 @@
+#include "Consola.h"
+#include "Entrada.h"
+#include "Formato.h"
+#include "ImagenAscii.h"
+#include "OEM858CodePage.h"
+#include "UTF8CodePage.h"
+#include "Ventana.h"

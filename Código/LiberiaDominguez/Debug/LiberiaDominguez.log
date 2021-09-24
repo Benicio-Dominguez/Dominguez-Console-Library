@@ -1,0 +1,9 @@
+﻿  Entrada.cpp
+  Formato.cpp
+  Ventana.cpp
+C:\Users\Tc\source\repos\domizconsolelib\LiberiaDominguez\Ventana.cpp(44,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Tc\source\repos\domizconsolelib\LiberiaDominguez\Ventana.cpp(195,26): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\Tc\source\repos\domizconsolelib\LiberiaDominguez\Ventana.cpp(368,30): warning C4018: '>': no coinciden signed/unsigned
+  Generando código...
+C:\Users\Tc\source\repos\domizconsolelib\LiberiaDominguez\Entrada.cpp(31): warning C4715: 'Entrada::EstadoTecla': no todas las rutas de acceso de control devuelven un valor
+  LiberiaDominguez.vcxproj -> C:\Users\Tc\source\repos\domizconsolelib\Debug\dominguezcnsl.lib

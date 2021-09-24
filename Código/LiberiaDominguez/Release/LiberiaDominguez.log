@@ -1,0 +1,8 @@
+﻿  Consola.cpp
+  Entrada.cpp
+  Formato.cpp
+  ImagenAscii.cpp
+  Ventana.cpp
+C:\Users\Tc\source\repos\domizconsolelib\LiberiaDominguez\Ventana.cpp(35,9): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Tc\source\repos\domizconsolelib\LiberiaDominguez\Ventana.cpp(183,26): warning C4018: '>': no coinciden signed/unsigned
+  LiberiaDominguez.vcxproj -> C:\Users\Tc\source\repos\domizconsolelib\Release\dominguezcnsl.lib
